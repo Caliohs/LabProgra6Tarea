@@ -1,0 +1,43 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Quitar
+       [dbo].[Vehiculo].[IDX_Vechiculo_Matricula] (Índice)
+     Crear
+       [dbo].[Clientes] (Tabla)
+       [dbo].[Usuarios] (Tabla)
+       [dbo].[Vehiculo].[IDX_Vehiculo_Matricula] (Índice)
+       [dbo].[FK_Clientes_Angecias] (Clave externa)
+       [dbo].[ClientesActualizar] (Procedimiento)
+       [dbo].[ClientesEliminar] (Procedimiento)
+       [dbo].[ClientesInsertar] (Procedimiento)
+       [dbo].[ClientesObtener] (Procedimiento)
+       [dbo].[Login] (Procedimiento)
+       [dbo].[UsuarioRegistrar] (Procedimiento)
+     Modificar
+       [dbo].[AgenciaActualizar] (Procedimiento)
+       [dbo].[AgenciaEliminar] (Procedimiento)
+       [dbo].[AgenciaInsertar] (Procedimiento)
+       [dbo].[AgenciaObtener] (Procedimiento)
+       [dbo].[CatalogoCantonLista] (Procedimiento)
+       [dbo].[CatalogoDistritoLista] (Procedimiento)
+       [dbo].[CatalogoProvinciaLista] (Procedimiento)
+       [dbo].[MarcaVehiculoActualizar] (Procedimiento)
+       [dbo].[MarcaVehiculoEliminar] (Procedimiento)
+       [dbo].[MarcaVehiculoInsertar] (Procedimiento)
+       [dbo].[MarcaVehiculoLista] (Procedimiento)
+       [dbo].[MarcaVehiculoObtener] (Procedimiento)
+       [dbo].[VehiculoActualizar] (Procedimiento)
+       [dbo].[VehiculoEliminar] (Procedimiento)
+       [dbo].[VehiculoInsertar] (Procedimiento)
+       [dbo].[VehiculoObtener] (Procedimiento)
+
+** Acciones de compatibilidad

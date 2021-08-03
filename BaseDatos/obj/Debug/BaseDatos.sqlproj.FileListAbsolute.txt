@@ -1,0 +1,10 @@
+C:\Users\cca\Downloads\CursoProgramacion6Sabados-master\BaseDatos\bin\Debug\BaseDatos.dacpac
+C:\Users\cca\Downloads\CursoProgramacion6Sabados-master\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\cca\Downloads\CursoProgramacion6Sabados-master\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\cca\Downloads\CursoProgramacion6Sabados-master\BaseDatos\obj\Debug\BaseDatos.sqlproj.AssemblyReference.cache
+C:\Users\cca\Downloads\CursoProgramacion6Sabados-master\BaseDatos\obj\Debug\Model.xml
+C:\Users\cca\Downloads\CursoProgramacion6Sabados-master\BaseDatos\obj\Debug\refactor.xml
+C:\Users\cca\Downloads\CursoProgramacion6Sabados-master\BaseDatos\obj\Debug\postdeploy.sql
+C:\Users\cca\Downloads\CursoProgramacion6Sabados-master\BaseDatos\obj\Debug\predeploy.sql
+C:\Users\cca\Downloads\CursoProgramacion6Sabados-master\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\cca\Downloads\CursoProgramacion6Sabados-master\BaseDatos\obj\Debug\BaseDatos.pdb
